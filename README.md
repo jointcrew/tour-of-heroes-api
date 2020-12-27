@@ -1,5 +1,7 @@
 # tour-of-heroes-api
 
+Next.js勉強会用のAPI
+
 ## 事前準備
 
 - [Go](https://golang.org/doc/install)
