@@ -1,4 +1,4 @@
-module github.com/takeshiemoto/tour-of-heroes-api
+module github.com/jointcrew/tour-of-heroes-api
 
 go 1.12
 

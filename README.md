@@ -22,7 +22,7 @@ heroku login
 Git Clone
 
 ```
-git clone git@github.com:takeshiemoto/tour-of-heroes-api.git
+git clone git@github.com:jointcrew/tour-of-heroes-api.git
 cd tour-of-heroes-api
 ```
 
@@ -44,7 +44,7 @@ heroku addons:create heroku-postgresql:hobby-dev
 heroku config
 ```
 
-接続情報参考にデータベースにログイン後テーブルを作成する
+接続情報参考にデータベースにログイン後、テーブルを作成する
 
 ```postgresql
 create table heroes (
